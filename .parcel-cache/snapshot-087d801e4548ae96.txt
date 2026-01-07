@@ -24,7 +24,7 @@
 63C:\Users\DELL\Desktop\New folder\landing-page\package-lock.json134122750586958408 0
 73C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\assests\slider134122436124478053 1
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\BY.js134122750569527335 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_3.94ff2980.png134122827969255719 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_3.94ff2980.png134122842585842331 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js134122750561623710 0
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\readdirp\index.d.ts134122750564482521 0
 61C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\._dist134122436121120856 0
@@ -36,7 +36,7 @@
 103C:\Users\DELL\Desktop\New folder\landing-page\node_modules\node-gyp-build-optional-packages\optional.js134122750563076504 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\PS.js134122750577316497 0
 106C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-focus-visible.js134122750571087307 0
-50C:\Users\DELL\Desktop\New folder\landing-page\dist134122827971938429 1
+50C:\Users\DELL\Desktop\New folder\landing-page\dist134122842594447703 1
 67C:\Users\DELL\Desktop\New folder\landing-page\node_modules\get-port134122750562946137 1
 93C:\Users\DELL\Desktop\New folder\landing-page\node_modules\sass\types\logger\source_span.d.ts134122750569845252 0
 49C:\Users\DELL\Desktop\New folder\landing-page\src134122776116346358 1
@@ -285,7 +285,7 @@
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\postcss-value-parser\lib\index.js134122750560801848 0
 98C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\web-share.js134122750579630257 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\SE.js134122750577729902 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\3750f875eb90be058cf9e8ae21068cd86ef239d9.42186508.png134122827969741856 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\3750f875eb90be058cf9e8ae21068cd86ef239d9.42186508.png134122842586385112 0
 83C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\assests\._sesame-img.png134122436122399113 0
 81C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\assests\._settings.svg134122436122430649 0
 84C:\Users\DELL\Desktop\New folder\landing-page\node_modules\utility-types\SECURITY.md134122750565732197 0
@@ -325,7 +325,7 @@
 80C:\Users\DELL\Desktop\New folder\landing-page\node_modules\escalade\package.json134122750562435714 0
 101C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\assests\classic-halva\._Rectangle (11).png134122436124765262 0
 85C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\assests\._tahini-spoon.png134122436122833605 0
-69C:\Users\DELL\Desktop\New folder\landing-page\dist\check.a769023f.svg134122827965603417 0
+69C:\Users\DELL\Desktop\New folder\landing-page\dist\check.a769023f.svg134122842582564379 0
 83C:\Users\DELL\Desktop\New folder\landing-page\node_modules\react-refresh\runtime.js134122750564330152 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\resource-timing.js134122750577520234 0
 103C:\Users\DELL\Desktop\New folder\landing-page\node_modules\utility-types\dist\aliases-and-guards.js.map134122750564369065 0
@@ -426,7 +426,7 @@
 84C:\Users\DELL\Desktop\New folder\landing-page\node_modules\semver\functions\patch.js134122750567417600 0
 103C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_define_property\package.json134122750572209170 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_class_extract_field_descriptor134122750571785970 1
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_5.93b36343.png134122827969282788 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_5.93b36343.png134122842586371869 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\src\worker.js134122750571356927 0
 122C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\assests\partners\._3f9d31cd6d59294fa3d505f99de78e55496c21ab.png134122436125218835 0
 133C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-node-modules134122750565994473 0
@@ -503,7 +503,7 @@
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\AssetGraph.js134122750567118867 0
 80C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_using134122750573188418 1
 76C:\Users\DELL\Desktop\New folder\landing-page\node_modules\sass\package.json134122750569097756 0
-73C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle.d8881410.png134122827966971490 0
+73C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle.d8881410.png134122842584338004 0
 104C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\src\.parcel-cache\._snapshot-087d801e4548ae96.txt134122436125384878 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\ZW.js134122750579934379 0
 91C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\dist\._active-market-bg.3a66bdbf.png134122436121320086 0
@@ -543,7 +543,7 @@
 111C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js134122750568927093 0
 88C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\dist\._Rectangle (8).8c3bb681.png134122436121345420 0
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\type-fest\source\iterable-element.d.ts134122750566145627 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\791f5e5124e978fa25f4a201e335491187fc32b9.ad183096.png134122827966219316 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\791f5e5124e978fa25f4a201e335491187fc32b9.ad183096.png134122842583333999 0
 98C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\dommatrix.js134122750572893712 0
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-postcss134122750564916086 1
 88C:\Users\DELL\Desktop\New folder\landing-page\__MACOSX\dist\._Rectangle (9).88bb972b.png134122436121478121 0
@@ -568,7 +568,7 @@
 79C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr\unpack.d.ts134122750568857644 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\cache\lib\index.js134122750564531829 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\SY.js134122750578276351 0
-59C:\Users\DELL\Desktop\New folder\landing-page\src\main.scss134122827956948522 0
+59C:\Users\DELL\Desktop\New folder\landing-page\src\main.scss134122842575479522 0
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\lmdb\node_modules\node-addon-api134122750566344797 1
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\wasm-threads.js134122750579504337 0
 69C:\Users\DELL\Desktop\New folder\landing-page\src\js\products-tabs.js134122436125774032 0
@@ -703,7 +703,7 @@
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_using.cjs134122750569610718 0
 117C:\Users\DELL\Desktop\New folder\landing-page\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc134122750569904589 0
 93C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr-extract\node_modules\.bin134122750580413168 1
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\a5eaa43ad29ba7ae10fd7aaa7765387e867da3f5.ca150102.png134122827965632861 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\a5eaa43ad29ba7ae10fd7aaa7765387e867da3f5.ca150102.png134122842582604368 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\x-doc-messaging.js134122750579776299 0
 84C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\reporter-cli\test134122750564896051 1
 68C:\Users\DELL\Desktop\New folder\landing-page\node_modules\lmdb\dist134122750570724719 1
@@ -737,7 +737,7 @@
 83C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\packager-css\lib134122750560757840 1
 90C:\Users\DELL\Desktop\New folder\landing-page\src\assests\classic-halva\Rectangle (11).png134122436132855851 0
 104C:\Users\DELL\Desktop\New folder\landing-page\dist\880c5414a551b6815f9477e47613836c2cc6aa3d.cd099e4f.png134122778840764508 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\3fdf4b277e80eb683a8cac1e7874f53bdb985e1f.390db494.png134122827966062469 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\3fdf4b277e80eb683a8cac1e7874f53bdb985e1f.390db494.png134122842583349441 0
 130C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1134122750580413168 0
 77C:\Users\DELL\Desktop\New folder\landing-page\src\assests\slider\Frame 10.png134122436132266127 0
 110C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-media-interaction.js134122750571494562 0
@@ -749,7 +749,7 @@
 120C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc134122750560655597 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_to_property_key134122750573010647 1
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\to-regex-range\package.json134122750560110372 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 11.bf6305ab.png134122827965627808 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 11.bf6305ab.png134122842582584331 0
 81C:\Users\DELL\Desktop\New folder\landing-page\src\assests\slider\Frame 11 (1).png134122436132356313 0
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\promises.js134122750577246393 0
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\lmdb\src\ordered-binary.cpp134122750569734437 0
@@ -797,7 +797,7 @@
 111C:\Users\DELL\Desktop\New folder\landing-page\src\assests\partners\77fcb7367b6a6fdfd79e92e8a0fce994ccb66bdc.png134122436133795321 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\accelerometer.js134122750563611213 0
 111C:\Users\DELL\Desktop\New folder\landing-page\src\assests\partners\791f5e5124e978fa25f4a201e335491187fc32b9.png134122436133795321 0
-75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.59712999.js134122827966632371 0
+75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.59712999.js134122842593428832 0
 96C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_ts_param\package.json134122750573058453 0
 110C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr-extract\node_modules\detect-libc\README.md134122750564186994 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\utils\src\index.js134122750568511937 0
@@ -976,7 +976,7 @@
 113C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_class_check_private_static_access.js134122750570054449 0
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\source-map-js\lib\source-node.js134122750565340047 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\BE.js134122750568869540 0
-68C:\Users\DELL\Desktop\New folder\landing-page\dist\safe.22815d67.svg134122827965603417 0
+68C:\Users\DELL\Desktop\New folder\landing-page\dist\safe.22815d67.svg134122842582564379 0
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\events\src\types.js134122750564936126 0
 79C:\Users\DELL\Desktop\New folder\landing-page\node_modules\escalade\index.d.mts134122750564435307 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\source-map-js\package.json134122750565710046 0
@@ -1163,7 +1163,7 @@
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\type-fest\source\union-to-intersection.d.ts134122750567726869 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\BA.js134122750568595329 0
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\chrome-trace-event\dist\trace-event.js134122750560408911 0
-76C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 10 (1).82fb2895.png134122827966971490 0
+76C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 10 (1).82fb2895.png134122842584315140 0
 103C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_to_property_key\package.json134122750573010647 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\type-fest\source\utilities.d.ts134122750567788977 0
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\ParcelConfig.test.js134122750570178256 0
@@ -1189,7 +1189,7 @@
 73C:\Users\DELL\Desktop\New folder\landing-page\node_modules\tslib\tslib.js134122750563585318 0
 107C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-color-function.js134122750570755959 0
 84C:\Users\DELL\Desktop\New folder\landing-page\node_modules\dotenv\lib\cli-options.js134122750560821410 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\tahini-bottle.8ded7f1f.png134122827971210114 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\tahini-bottle.8ded7f1f.png134122842590967059 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\dotenv-expand\CHANGELOG.md134122750563215398 0
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_object_without_properties134122750572714679 1
 81C:\Users\DELL\Desktop\New folder\landing-page\node_modules\tslib\modules\index.js134122750561418217 0
@@ -1403,7 +1403,7 @@
 88C:\Users\DELL\Desktop\New folder\landing-page\node_modules\regenerator-runtime\README.md134122750563183151 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\regenerator-runtime\runtime.js134122750561418217 0
 112C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js134122750572572817 0
-78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (12).4faf3d5a.png134122827969255719 0
+78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (12).4faf3d5a.png134122842590706876 0
 76C:\Users\DELL\Desktop\New folder\landing-page\node_modules\readdirp\index.js134122750561562179 0
 82C:\Users\DELL\Desktop\New folder\landing-page\node_modules\readdirp\esm\index.d.ts134122750564245434 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\JP.js134122750574739916 0
@@ -1464,7 +1464,7 @@
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\packager-js\src\dev-prelude.js134122750563624850 0
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\picomatch\README.md134122750565023206 0
 76C:\Users\DELL\Desktop\New folder\landing-page\node_modules\is-number\LICENSE134122750561357276 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (2).bff1712a.png134122827969741856 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (2).bff1712a.png134122842590706876 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\picomatch\lib\constants.js134122750560810553 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\MA.js134122750575884666 0
 98C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_iterable_to_array.cjs134122750568802185 0
@@ -1570,7 +1570,7 @@
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\node-gyp-build-optional-packages\node_modules134122750552297414 1
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in134122750570499438 0
 114C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js134122750573058453 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\calendar.11e9014a.svg134122827966408950 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\calendar.11e9014a.svg134122842583530765 0
 124C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json134122750564398516 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\node-gyp-build-optional-packages\README.md134122750564025362 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\DO.js134122750572772224 0
@@ -1593,7 +1593,7 @@
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\node-addon-api\package-support.json134122750566195144 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\font-size-adjust.js134122750573510084 0
 83C:\Users\DELL\Desktop\New folder\landing-page\node_modules\node-addon-api\README.md134122750566440699 0
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 5.f451da63.png134122827966971490 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 5.f451da63.png134122842584315140 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\AM.js134122750567118867 0
 72C:\Users\DELL\Desktop\New folder\landing-page\node_modules\escalade\sync134122750564972722 1
 93C:\Users\DELL\Desktop\New folder\landing-page\node_modules\node-addon-api\tools\check-napi.js134122750565732197 0
@@ -1679,7 +1679,7 @@
 106C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\config-node-pipeline134122750563716809 1
 80C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr\unpack.d.cts134122750564936126 0
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\lmdb\dist\index.cjs134122750569509891 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\tahini-bottom.ec338322.png134122827971276276 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\tahini-bottom.ec338322.png134122842591150308 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr\dist\index-no-eval.cjs134122750561562179 0
 106C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\reporter-dev-server\src\serverErrors.js134122750564600452 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr\dist\index.js.map134122750567759793 0
@@ -1691,8 +1691,8 @@
 80C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr\dist\test.js134122750567144003 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\regions\LB.js134122750575549759 0
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\msgpackr\dist\unpack-no-eval.cjs134122750564273012 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (7).95e78aad.png134122827966971490 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 10.8a3f4fc2.png134122827965632861 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (7).95e78aad.png134122842585830795 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 10.8a3f4fc2.png134122842582584331 0
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\micromatch\index.js134122750560821410 0
 82C:\Users\DELL\Desktop\New folder\landing-page\node_modules\micromatch\package.json134122750561431565 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node134122750569649113 1
@@ -2086,7 +2086,7 @@
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\runtime-service-worker134122750561988054 1
 81C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core\binding.d.ts134122750563107322 0
 71C:\Users\DELL\Desktop\New folder\landing-page\node_modules\chalk\source134122750561774668 1
-68C:\Users\DELL\Desktop\New folder\landing-page\dist\logo.1ad858d6.svg134122827965603417 0
+68C:\Users\DELL\Desktop\New folder\landing-page\dist\logo.1ad858d6.svg134122842582564379 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js134122750570613226 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\font-variant-numeric.js134122750573573681 0
 84C:\Users\DELL\Desktop\New folder\landing-page\node_modules\chalk\source\templates.js134122750561457715 0
@@ -2446,7 +2446,7 @@
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\graph\lib\index.js134122750566113002 0
 114C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-container-query-units.js134122750570817808 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-counters.js134122750570846093 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (9).ee4e8406.png134122827966971490 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (9).ee4e8406.png134122842584338004 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-crisp-edges.js134122750570872729 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-display-contents.js134122750570946747 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-element-function.js134122750570946747 0
@@ -2471,7 +2471,7 @@
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\src\_object_spread.mjs134122750574041446 0
 107C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-initial-letter.js134122750571290752 0
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-lch-lab.js134122750571340879 0
-74C:\Users\DELL\Desktop\New folder\landing-page\dist\phone-call.26c7aa12.svg134122827965593363 0
+74C:\Users\DELL\Desktop\New folder\landing-page\dist\phone-call.26c7aa12.svg134122842582564379 0
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\meter.js134122750576136168 0
 106C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-marker-pseudo.js134122750571356927 0
 111C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-media-range-syntax.js134122750571494562 0
@@ -2515,7 +2515,7 @@
 111C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\effects\stackTraceLimit.js134122750567210975 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_ts_values.cjs134122750569527335 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-transitions.js134122750572209170 0
-75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 6 (2).a9dcd632.png134122827966971490 0
+75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 6 (2).a9dcd632.png134122842584325918 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-unicode-bidi.js134122750572209170 0
 96C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@mischnic\json-sourcemap\package.json134122750561418217 0
 107C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\css-widows-orphans.js134122750572260375 0
@@ -2594,7 +2594,7 @@
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\sql-storage.js134122750578035505 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\html5semantic.js134122750574082547 0
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\http3.js134122750574159328 0
-79C:\Users\DELL\Desktop\New folder\landing-page\dist\2nd-section-img.7bf5a5e5.png134122827971230181 0
+79C:\Users\DELL\Desktop\New folder\landing-page\dist\2nd-section-img.7bf5a5e5.png134122842591127717 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\iframe-seamless.js134122750574224066 0
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\input-range.js134122750574560622 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\imagecapture.js134122750574266617 0
@@ -2754,7 +2754,7 @@
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\template.js134122750578350664 0
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\temporal.js134122750578372250 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\text-emphasis.js134122750578372250 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (8).f1fe3ddb.png134122827969255719 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (8).f1fe3ddb.png134122842585960690 0
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\textencoder.js134122750578372250 0
 70C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\parcel134122750580413168 0
 95C:\Users\DELL\Desktop\New folder\landing-page\node_modules\caniuse-lite\data\features\tls1-2.js134122750578508705 0
@@ -2830,7 +2830,7 @@
 75C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\src134122750574366789 1
 79C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\index134122750573322191 1
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_array_without_holes134122750571400971 1
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 8.7e41968f.png134122827965632861 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 8.7e41968f.png134122842582584331 0
 77C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\logger\lib134122750560787751 1
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_class_private_method_init.js134122750570267735 0
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_array_with_holes134122750571400971 1
@@ -2876,7 +2876,7 @@
 96C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_define_property.cjs134122750568262178 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_initializer_warning_helper134122750572419681 1
 98C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_interop_require_default134122750572464853 1
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (3).36814dfd.png134122827966950225 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (3).36814dfd.png134122842583983955 0
 98C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_iterable_to_array_limit134122750572535230 1
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_jsx134122750572572817 1
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_non_iterable_rest134122750572627750 1
@@ -2914,7 +2914,7 @@
 117C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json134122750573188418 0
 74C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\semver.ps1134122750580413168 0
 124C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_ts_rewrite_relative_import_extension\package.json134122750573139994 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_1.855d1c32.png134122827969255719 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_1.855d1c32.png134122842590706876 0
 99C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_ts_metadata\package.json134122750573058453 0
 99C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_ts_decorate\package.json134122750573024478 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\requests\ConfigRequest.js134122750568764742 0
@@ -2940,7 +2940,7 @@
 113C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_object_without_properties\package.json134122750572714679 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_object_spread\package.json134122750572695505 0
 114C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json134122750572665371 0
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 9.a739d8b9.png134122827965632861 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 9.a739d8b9.png134122842582584331 0
 107C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_non_iterable_spread\package.json134122750572627750 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_non_iterable_rest\package.json134122750572627750 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_class_private_field_init.js134122750570131927 0
@@ -2949,7 +2949,7 @@
 111C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_iterable_to_array_limit\package.json134122750572535230 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_iterable_to_array\package.json134122750572572817 0
 115C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json134122750572518663 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\location.b4279b40.svg134122827965603417 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\location.b4279b40.svg134122842582564379 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc134122750566239093 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_identity.cjs134122750568498665 0
 106C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_is_native_function\package.json134122750572492712 0
@@ -2980,7 +2980,7 @@
 111C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_class_private_field_get\package.json134122750571828576 0
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\packager-js134122750566503260 1
 118C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json134122750571785970 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\2e604cbd552dcb519594da66f36db513a806aa50.761cfef7.png134122827971316367 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\2e604cbd552dcb519594da66f36db513a806aa50.761cfef7.png134122842591170408 0
 98C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\utils\test\PromiseQueue.test.js134122750568907045 0
 131C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json134122750571785970 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\_\_class_call_check\package.json134122750571748510 0
@@ -3152,7 +3152,7 @@
 87C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_type_of.js134122750571165380 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_unsupported_iterable_to_array.js134122750571165380 0
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_update.js134122750571165380 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (7).6a9376e8.png134122827966808566 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (7).6a9376e8.png134122842583983955 0
 78C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core\util.d.ts134122750565465202 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_using_ctx.js134122750571214360 0
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\esm\_wrap_async_generator.js134122750571241661 0
@@ -3185,7 +3185,7 @@
 116C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs134122750567472762 0
 114C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_class_static_private_field_update.cjs134122750567523831 0
 112C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_class_static_private_method_get.cjs134122750567563929 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (1).63e1c022.png134122827969255719 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (1).63e1c022.png134122842586775252 0
 116C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_create_for_of_iterator_helper_loose.cjs134122750567726869 0
 93C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_create_super.cjs134122750567788977 0
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\public\Target.js134122750571012012 0
@@ -3232,7 +3232,7 @@
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\config\.parcelrc134122750564916086 0
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_ts_metadata.cjs134122750569456940 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_ts_param.cjs134122750569476973 0
-75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 9 (1).2d2368f6.png134122827966971490 0
+75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 9 (1).2d2368f6.png134122842584325918 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\node-resolver-core\lib\builtins.js134122750562015676 0
 117C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_ts_rewrite_relative_import_extension.cjs134122750569509891 0
 88C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\helpers\cjs\_type_of.cjs134122750569537403 0
@@ -3248,7 +3248,7 @@
 107C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node134122750571356927 0
 79C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core\binding.js134122750563803511 0
 79C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core\index.d.ts134122750564139050 0
-76C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.2103b895.css134122827968088389 0
+76C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.2103b895.css134122842590691343 0
 81C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core\package.json134122750564713013 0
 112C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\components\NavigationBar.js134122750566265453 0
 83C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@swc\core\postinstall.js134122750564936126 0
@@ -3322,7 +3322,7 @@
 134C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js134122750565363896 0
 88C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\Handle.js134122750566289061 0
 87C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\index.js134122750566516623 0
-69C:\Users\DELL\Desktop\New folder\landing-page\dist\acres.34982768.svg134122827965593363 0
+69C:\Users\DELL\Desktop\New folder\landing-page\dist\acres.34982768.svg134122842586385112 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\types-internal\lib134122750567118867 1
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\process134122750567383025 1
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\threads134122750567726869 1
@@ -3330,7 +3330,7 @@
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\web\WebChild.js134122750568232982 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\process\ProcessChild.js134122750567303764 0
 103C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\src\process\ProcessWorker.js134122750567397565 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\form-bg1.583eb452.png134122827968077172 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\form-bg1.583eb452.png134122842586371869 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\lib\backend.js134122750560845424 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\plugin\src\PluginAPI.js134122750561609215 0
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\workers\lib\bus.js134122750562534934 0
@@ -3470,7 +3470,7 @@
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\requests\TargetRequest.js134122750571066878 0
 97C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-image\package.json134122750564517544 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js134122750563968340 0
-69C:\Users\DELL\Desktop\New folder\landing-page\dist\since.0552274a.svg134122827966408950 0
+69C:\Users\DELL\Desktop\New folder\landing-page\dist\since.0552274a.svg134122842583530765 0
 87C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-node\lib134122750560734550 1
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-node\LICENSE134122750560345497 0
 95C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\UncommittedAsset.js134122750571214360 0
@@ -3481,7 +3481,7 @@
 85C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-js\lib134122750561988054 1
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-js\LICENSE134122750560345497 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-js\src\JSTransformer.js134122750563968340 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (8).4415f5fe.png134122827966971490 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (8).4415f5fe.png134122842590706876 0
 104C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-js\src\mdx-components.jsx134122750564517544 0
 108C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-image\src\ImageTransformer.js134122750561599201 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\transformer-image\src\loadSharp.js134122750563465458 0
@@ -3715,7 +3715,7 @@
 77C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\fs\LICENSE134122750560408911 0
 82C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\fs\package.json134122750565669917 0
 81C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\fs\src\find.js134122750562025645 0
-75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.1ed597b5.js134122827966632371 0
+75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.1ed597b5.js134122842593428832 0
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\fs\src\NodeFS.browser.js134122750564809773 0
 86C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\fs\src\OverlayFS.js134122750565318282 0
 102C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock134122750571951683 0
@@ -3746,7 +3746,7 @@
 93C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\index.js134122750565953811 0
 109C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\listenToRuntimeErrors.js134122750566207238 0
 94C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\styles.js134122750567254028 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\form-bg2.0294614b.png134122827966395402 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\form-bg2.0294614b.png134122842586371869 0
 90C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\utils134122750566925164 1
 108C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\utils\getStackFrames.js134122750565135587 0
 108C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\error-overlay\src\utils\isInternalFile.js134122750566113002 0
@@ -3782,7 +3782,7 @@
 107C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\common-targets-ignore134122750571521875 1
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\config134122750565271202 1
 110C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\config-extends-not-found134122750565953811 1
-80C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.2103b895.css.map134122827970731619 0
+80C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.2103b895.css.map134122842591100211 0
 108C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\custom-format-mismatch134122750571611046 1
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\custom-targets134122750571641695 1
 103C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\test\fixtures\duplicate-targets134122750571671174 1
@@ -3890,7 +3890,7 @@
 99C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\requests\PathRequest.js134122750570424341 0
 106C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\requests\WriteBundleRequest.js134122750571356927 0
 91C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\public\Asset.js134122750566856348 0
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\frame44.1e765d4c.png134122827968931240 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\frame44.1e765d4c.png134122842586385112 0
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\public\Bundle.js134122750567726869 0
 99C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\core\lib\public\PluginOptions.js134122750570464246 0
 92C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\config-default\index.json134122750562025645 0
@@ -3899,7 +3899,7 @@
 80C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\codeframe\lib134122750567283519 1
 95C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\config-default\test\.babelrc134122750560459169 0
 101C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\config-default\test\config.test.js134122750561548012 0
-70C:\Users\DELL\Desktop\New folder\landing-page\dist\rice-2.2d292b02.png134122827969282788 0
+70C:\Users\DELL\Desktop\New folder\landing-page\dist\rice-2.2d292b02.png134122842586371869 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\compressor-raw\LICENSE134122750560408911 0
 84C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\codeframe\LICENSE134122750560408911 0
 89C:\Users\DELL\Desktop\New folder\landing-page\node_modules\@parcel\codeframe\package.json134122750567254028 0
@@ -3943,63 +3943,63 @@
 95C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\download-msgpackr-prebuilds.cmd134122750580413168 0
 73C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\json5.cmd134122750580413168 0
 105C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134122750580413168 0
-79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.1ed597b5.js.map134122827969255719 0
+79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.1ed597b5.js.map134122842593591685 0
 100C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\node-gyp-build-optional-packages.cmd134122750580413168 0
 72C:\Users\DELL\Desktop\New folder\landing-page\node_modules\.bin\sass.cmd134122750580413168 0
 79C:\Users\DELL\Desktop\New folder\landing-page\dist\2nd-section-img.86686577.png134122778801896689 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\3f9d31cd6d59294fa3d505f99de78e55496c21ab.023c1b6a.png134122827971210114 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\77fcb7367b6a6fdfd79e92e8a0fce994ccb66bdc.3f298911.png134122827968576925 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\3f9d31cd6d59294fa3d505f99de78e55496c21ab.023c1b6a.png134122842590967059 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\77fcb7367b6a6fdfd79e92e8a0fce994ccb66bdc.3f298911.png134122842585819338 0
 104C:\Users\DELL\Desktop\New folder\landing-page\dist\77fcb7367b6a6fdfd79e92e8a0fce994ccb66bdc.5a139964.png134122778840764508 0
-104C:\Users\DELL\Desktop\New folder\landing-page\dist\880c5414a551b6815f9477e47613836c2cc6aa3d.f28cab3a.png134122827970577446 0
+104C:\Users\DELL\Desktop\New folder\landing-page\dist\880c5414a551b6815f9477e47613836c2cc6aa3d.f28cab3a.png134122842586775252 0
 69C:\Users\DELL\Desktop\New folder\landing-page\dist\acres.be405f1b.svg134122778801885818 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\calendar.805c9aec.svg134122778840748559 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\download.1dbc4b0a.svg134122778840748559 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\download.cad5f5ec.svg134122827966408950 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\download.cad5f5ec.svg134122842583530765 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\form-bg1.122290a7.png134122778840748559 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\form-bg2.12c9e20a.png134122778801875075 0
 76C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 10 (1).ca596552.png134122778840748559 0
-76C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 11 (1).1ee52e97.png134122827966971490 0
+76C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 11 (1).1ee52e97.png134122842584325918 0
 73C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 177.437d9c0e.png134122778840748559 0
-73C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 177.aa2edd78.png134122827969255719 0
-75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 6 (1).d662bd8f.png134122827965632861 0
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 6.1e99e330.png134122827965632861 0
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 7.04c33abc.png134122827966971490 0
+73C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 177.aa2edd78.png134122842590706876 0
+75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 6 (1).d662bd8f.png134122842582584331 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 6.1e99e330.png134122842582584331 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 7.04c33abc.png134122842584325918 0
 71C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 7.09871abb.png134122778840758628 0
 75C:\Users\DELL\Desktop\New folder\landing-page\dist\Frame 9 (1).19cc9293.png134122778840758628 0
-71C:\Users\DELL\Desktop\New folder\landing-page\dist\globe-1.886885e3.svg134122827966419987 0
+71C:\Users\DELL\Desktop\New folder\landing-page\dist\globe-1.886885e3.svg134122842583530765 0
 71C:\Users\DELL\Desktop\New folder\landing-page\dist\globe-1.99408812.svg134122778840748559 0
-69C:\Users\DELL\Desktop\New folder\landing-page\dist\globe.e58a9cfc.svg134122827966408950 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\hero-vid.49af1784.mp4134122825823492394 0
+69C:\Users\DELL\Desktop\New folder\landing-page\dist\globe.e58a9cfc.svg134122842583530765 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\hero-vid.49af1784.mp4134122836049050778 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\hero-vid.e77fed63.mp4134122778809378563 0
 77C:\Users\DELL\Desktop\New folder\landing-page\dist\img-bg-active.8cecc9c1.png134122778805503557 0
-77C:\Users\DELL\Desktop\New folder\landing-page\dist\img-bg-active.a8fc3fcb.png134122827971170010 0
-61C:\Users\DELL\Desktop\New folder\landing-page\dist\index.html134122827967701617 0
+77C:\Users\DELL\Desktop\New folder\landing-page\dist\img-bg-active.a8fc3fcb.png134122842590942816 0
+61C:\Users\DELL\Desktop\New folder\landing-page\dist\index.html134122842586371869 0
 80C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.3b3f0066.css.map134122778841049291 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_2.de17f8d2.png134122827966961465 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_2.de17f8d2.png134122842584315140 0
 75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.402ce97b.js134122778840996484 0
-79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.59712999.js.map134122827969255719 0
+79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.59712999.js.map134122842593591685 0
 79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.6fafad5c.js.map134122778841049291 0
 80C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.b10d73a7.css.map134122774520847163 0
-75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.bd2113f6.js134122827966794747 0
-79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.bd2113f6.js.map134122827969255719 0
+75C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.bd2113f6.js134122842594401043 0
+79C:\Users\DELL\Desktop\New folder\landing-page\dist\landing-page.bd2113f6.js.map134122842594436103 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_2.99823347.png134122778801854597 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_4.b4233cf8.png134122827967910412 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_4.b4233cf8.png134122842585254392 0
 72C:\Users\DELL\Desktop\New folder\landing-page\dist\prod-1_5.28dca7ea.png134122778840748559 0
-76C:\Users\DELL\Desktop\New folder\landing-page\dist\purple-check.a07948f5.svg134122827965603417 0
+76C:\Users\DELL\Desktop\New folder\landing-page\dist\purple-check.a07948f5.svg134122842582564379 0
 77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (1).fc797c4f.png134122778840748559 0
 78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (10).b8a53854.png134122778840748559 0
-78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (10).f4592c27.png134122827969255719 0
-78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (11).90552988.png134122827966808566 0
+78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (10).f4592c27.png134122842586775252 0
+78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (11).90552988.png134122842583983955 0
 78C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (12).191b7118.png134122778840748559 0
 77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (2).51abc0d6.png134122778840748559 0
 77C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle (9).d7301fe8.png134122778801875075 0
 73C:\Users\DELL\Desktop\New folder\landing-page\dist\Rectangle.9f44bf02.png134122778801875075 0
 70C:\Users\DELL\Desktop\New folder\landing-page\dist\rice-1.95b09d9c.png134122460496001840 0
-68C:\Users\DELL\Desktop\New folder\landing-page\dist\send.52035f54.svg134122827965603417 0
+68C:\Users\DELL\Desktop\New folder\landing-page\dist\send.52035f54.svg134122842582564379 0
 68C:\Users\DELL\Desktop\New folder\landing-page\dist\send.c57b758f.svg134122778801885818 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\settings.883bdea6.svg134122827966408950 0
-68C:\Users\DELL\Desktop\New folder\landing-page\dist\star.90556160.svg134122827966408950 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\settings.883bdea6.svg134122842583530765 0
+68C:\Users\DELL\Desktop\New folder\landing-page\dist\star.90556160.svg134122842583530765 0
 68C:\Users\DELL\Desktop\New folder\landing-page\dist\star.94c01146.svg134122778840748559 0
-72C:\Users\DELL\Desktop\New folder\landing-page\dist\sub-logo.3ae18794.png134122827968230147 0
+72C:\Users\DELL\Desktop\New folder\landing-page\dist\sub-logo.3ae18794.png134122842585414648 0
 77C:\Users\DELL\Desktop\New folder\landing-page\dist\tahini-bottle.8051e134.png134122778840748559 0
 77C:\Users\DELL\Desktop\New folder\landing-page\dist\tahini-bottom.62931f18.png134122778801896689 0
