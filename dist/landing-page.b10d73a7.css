@@ -1060,7 +1060,6 @@ body {
 
 .contact-link {
   color: #602960;
-  justify-content: center;
   align-items: center;
   gap: 12px;
   text-decoration: none;
@@ -1516,7 +1515,7 @@ body {
   }
 
   .feature-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(1, minmax(0, 1fr));
     gap: 24px 32px;
   }
 
@@ -1579,16 +1578,122 @@ body {
   }
 }
 
+@media (width >= 1620px) {
+  .hero h1 {
+    font-size: 60.75px;
+  }
+
+  .hero-subtext {
+    font-size: 20.25px;
+  }
+
+  .section-heading h2 {
+    font-size: 45.5625px;
+  }
+
+  .section-heading p {
+    font-size: 16.875px;
+  }
+
+  .about-copy h2 {
+    font-size: 33.75px;
+  }
+
+  .about-copy .lead {
+    font-size: 16.875px;
+  }
+
+  .stat-card h3 {
+    font-size: 20.25px;
+  }
+
+  .stat-card p {
+    font-size: 11.8125px;
+  }
+
+  .certifications-block h3, .technology-copy h2 {
+    font-size: 45.5625px;
+  }
+
+  .feature-card-content h3 {
+    font-size: 15.1875px;
+  }
+
+  .feature-card-content p {
+    font-size: 12.6563px;
+  }
+
+  .product-tab {
+    font-size: 15.1875px;
+  }
+
+  .product-card h3 {
+    font-size: 18.5625px;
+  }
+
+  .product-description {
+    font-size: 11.8125px;
+  }
+
+  .product-props {
+    font-size: 10.9688px;
+  }
+
+  .footer-column h3 {
+    font-size: 18.5625px;
+  }
+
+  .footer-copy, .footer-list, .contact-link, .footer-text, .footer-link {
+    font-size: 13.5px;
+  }
+
+  .footer-bottom {
+    font-size: 12.6563px;
+  }
+
+  .eyebrow {
+    font-size: 11.8125px;
+  }
+
+  .lead {
+    font-size: 16.875px;
+  }
+
+  .btn-primary {
+    font-size: 17.1px;
+  }
+
+  .btn-light {
+    font-size: 15.1875px;
+  }
+
+  .chip {
+    font-size: 11.8125px;
+  }
+
+  .section-logo-text {
+    font-size: 16.875px;
+  }
+
+  .certifications-note, .markets-tags span, .btn-glass {
+    font-size: 11.8125px;
+  }
+
+  .product-tag, .product-variant {
+    font-size: 10.9688px;
+  }
+}
+
 @media (width <= 1644px) {
   .technology-bottle {
     width: 180px;
-    left: 68%;
+    left: 200px;
   }
 
   .technology-pour {
     width: 600px;
     height: 600px;
-    left: 58%;
+    left: 125px;
   }
 }
 
@@ -1596,13 +1701,17 @@ body {
   .technology-bottle {
     width: 150px;
     height: 380px;
-    left: 65%;
+    left: 100px;
+  }
+
+  .btn-light {
+    display: none;
   }
 
   .technology-pour {
     width: 520px;
-    height: 520px;
-    left: 55%;
+    height: 390px;
+    left: 38px;
   }
 }
 
@@ -1690,10 +1799,6 @@ body {
 }
 
 @media (width <= 768px) {
-  .header-inner {
-    flex-wrap: wrap;
-  }
-
   .technology-background-2, .form-bg {
     display: none;
   }
@@ -1702,19 +1807,17 @@ body {
     flex-wrap: wrap;
     gap: 12px;
     width: 100%;
-    margin-top: 12px;
     display: flex;
   }
 
   .header-actions .btn {
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
+    white-space: normal;
+    text-overflow: initial;
+    overflow: visible;
   }
 
   .header-actions .btn-primary {
     flex: auto;
-    min-width: min-content;
   }
 
   .header-actions .btn-light {
@@ -1722,10 +1825,13 @@ body {
   }
 
   .btn-primary {
+    white-space: normal;
+    word-break: break-word;
     border-radius: 11px;
     height: 48px;
-    padding: 0 32px;
-    font-size: 16px;
+    padding: 0 24px;
+    font-size: 13px;
+    line-height: 1.2;
   }
 
   .btn-light {
@@ -1990,31 +2096,36 @@ body {
   }
 
   .header-inner {
-    gap: 12px;
-    padding: 12px 0;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 0;
   }
 
   .logo-group {
-    gap: 8px;
+    gap: 4px;
   }
 
   .logo {
-    font-size: 18px;
+    font-size: 9px;
+  }
+
+  .logo img {
+    height: 34px;
   }
 
   .logo-divider {
-    height: 40px;
+    height: 24px;
   }
 
   .logo-gulfood img {
-    height: 45px;
+    height: 32px;
   }
 
   .btn-primary {
-    border-radius: 10px;
-    height: 44px;
-    padding: 0 24px;
-    font-size: 14px;
+    border-radius: 8px;
+    height: 40px;
+    padding: 0 12px;
+    font-size: 12px;
   }
 
   .btn-light {
