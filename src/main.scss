@@ -50,6 +50,7 @@ body {
   font-family: $font-base;
   background-color: #f8f6f1;
   color: #602960;
+  overflow-x: hidden;
 }
 
 /* ---------------- Layout ---------------- */
@@ -57,6 +58,7 @@ body {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 24px;
+  // overflow-x: hidden;
 }
 
 .container-2 {
@@ -159,7 +161,7 @@ body {
   top: 0;
   z-index: 1000000;
   @media (max-width: 768px) {
-    padding: 16px 24px;
+    padding: 8px 12px;
   }
 }
 
@@ -167,7 +169,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 16px 0;
+  // padding: 16px 0;
   gap: 24px;
 }
 
@@ -348,7 +350,7 @@ body {
 .about-visual-img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   //position: absolute;
   //inset: 0;
   //width: 100%;
@@ -768,9 +770,9 @@ body {
   position: absolute;
   left: 70%;
   top: -100px;
-  width: 220.708px;
-  height: 547.493px;
-  transform: rotate(-146.491deg) translateX(-50%);
+  width: 820.708px;
+  height: 947.493px;
+  // transform: rotate(-146.491deg) translateX(-50%);
   aspect-ratio: 220.71/547.49;
   z-index: 10000;
   object-fit: contain;
@@ -1183,6 +1185,21 @@ body {
   text-decoration: underline;
 }
 
+.mobile {
+  display: none !important;
+
+  @media (max-width: 768px) {
+    display: flex!important;
+  }
+}
+.desktop {
+  // display: flex !important;
+
+  @media (max-width: 768px) {
+    display: none!important;
+  }
+}
+
 .social-icons {
   display: flex;
   gap: 16px;
@@ -1246,7 +1263,7 @@ body {
   }
 
   .header-inner {
-    padding: 20px 0;
+    // padding: 20px 0;
   }
 
   .header-actions {
@@ -1505,7 +1522,7 @@ body {
   }
 
   .header-inner {
-    padding: 16px 0;
+    // padding: 16px 0;
   }
 
   .btn-primary {
@@ -1631,10 +1648,10 @@ body {
   }
 
   .technology-bottle {
-    width: 200px;
-    height: 520px;
+    width: 100%;
+    height: 820px;
     top: -100px;
-    left: 300px;
+    left: 0px;
   }
 
   .technology-pour {
@@ -1859,8 +1876,8 @@ body {
 @media (max-width: 1644px) {
   .technology-bottle {
     // left: 68%;
-    left: 200px;
-    width: 180px;
+    // left: 200px;
+    // width: 180px;
   }
 
   .technology-pour {
@@ -1872,22 +1889,22 @@ body {
 }
 
 /* Small Desktop (max-width: 1204px) */
-@media (max-width: 1204px) {
-  .technology-bottle {
-    left: 100px;
-    width: 150px;
-    height: 380px;
-  }
+// @media (max-width: 1204px) {
+//   .technology-bottle {
+//     left: 100px;
+//     width: 150px;
+//     height: 380px;
+//   }
 
-  .btn-light {
-    display: none;
-  }
-  .technology-pour {
-    left: 38px;
-    width: 520px;
-    height: 390px;
-  }
-}
+//   .btn-light {
+//     display: none;
+//   }
+//   .technology-pour {
+//     left: 38px;
+//     width: 520px;
+//     height: 390px;
+//   }
+// }
 
 /* Tablet and below (max-width: 1024px) */
 @media (max-width: 1024px) {
@@ -1919,10 +1936,14 @@ body {
   }
 
   .technology-bottle {
-    top: -200px;
-    left: 560px;
-    width: 160px;
-    height: 400px;
+    // top: -200px;
+    width: 100%;
+    height: 600px;
+    // height: 500px;
+    left: 0px;
+    top: -250px;
+    // width: 160px;
+    // height: 400px;
   }
 
   .technology-pour {
@@ -1945,27 +1966,27 @@ body {
 }
 
 /* Small Tablet (max-width: 708px) */
-@media (max-width: 904px) {
-  .technology-bottle {
-    top: -200px;
-    left: 440px;
-    width: 120px;
-    height: 400px;
-  }
+// @media (max-width: 904px) {
+//   .technology-bottle {
+//     top: -200px;
+//     left: 440px;
+//     width: 120px;
+//     height: 400px;
+//   }
 
-  .technology-pour {
-    left: 390px;
-    top: 81ipx;
-    width: 400px;
-    height: 400px;
-  }
-}
+//   .technology-pour {
+//     left: 390px;
+//     top: 81ipx;
+//     width: 400px;
+//     height: 400px;
+//   }
+// }
 @media (max-width: 708px) {
-  .technology-bottle {
-    left: 55%;
-    width: 110px;
-    height: 280px;
-  }
+  // .technology-bottle {
+  //   left: 55%;
+  //   width: 110px;
+  //   height: 280px;
+  // }
 
   .break_small-screen {
     display: block;
@@ -2067,10 +2088,10 @@ body {
 
   .pill-divider {
     // display: none;
-      width: 100%;
-      height: 1px;
-      margin: 0;
-      background: rgba(240, 235, 224, 0.4);
+    width: 100%;
+    height: 1px;
+    margin: 0;
+    background: rgba(240, 235, 224, 0.4);
   }
 
   .section {
@@ -2120,10 +2141,10 @@ body {
   }
 
   .technology-bottle {
-    left: 380px;
-    top: -200px;
-    width: 100px;
-    height: 250px;
+    // left: 380px;
+    // top: -200px;
+    // width: 100px;
+    // height: 250px;
   }
 
   .technology-pour {
@@ -2282,12 +2303,12 @@ body {
 
 /* Tablet Small (max-width: 600px) */
 @media (max-width: 600px) {
-  .technology-bottle {
-    left: 310px;
-    top: -120px;
-    width: 70px;
-    height: 180px;
-  }
+  // .technology-bottle {
+  //   left: 310px;
+  //   top: -120px;
+  //   width: 70px;
+  //   height: 180px;
+  // }
 
   .technology-pour {
     top: 0px;
@@ -2627,10 +2648,10 @@ body {
   }
 
   .technology-bottle {
-    left: 252px;
-    top: -111px;
-    width: 60px;
-    height: 150px;
+    width: 60%;
+    height: 400px;
+    left: 173px;
+    top: -200px;
   }
 
   .technology-pour {
