@@ -1143,9 +1143,65 @@ body {
   text-decoration: none;
 }
 
+.contact-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: #602960;
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.contact-link:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.contact-link svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.contact-link span {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
 .footer-list a:hover,
 .footer-link:hover {
   text-decoration: underline;
+}
+
+.social-icons {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.social-icon {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.1);
+}
+
+.social-icon svg:first-child {
+  position: absolute;
+}
+
+.social-icon-inner {
+  position: relative;
+  z-index: 1;
 }
 
 .footer-text {
@@ -1934,12 +1990,113 @@ body {
   }
 
   .footer-inner {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 32px;
+    grid-template-columns: 1fr;
+    gap: 24px;
   }
 
-  .footer-column:last-child {
+  .footer-column {
+    grid-column: auto;
+  }
+
+  .footer-column:first-child {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .footer-column:first-child .logo-group {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .footer-column:first-child .logo {
+    display: flex;
+    align-items: center;
+  }
+
+  .footer-column:first-child .logo img {
+    height: 40px;
+  }
+
+  .footer-column:first-child .logo-gulfood {
+    display: flex;
+    align-items: center;
+  }
+
+  .footer-column:first-child .logo-gulfood img {
+    height: 40px;
+  }
+
+  .footer-column:first-child .logo-divider {
+    display: none;
+  }
+
+  .footer-copy {
+    font-size: 14px;
+    margin-top: 0;
+  }
+
+  .footer-column:nth-child(2) h3,
+  .footer-column:nth-child(3) h3 {
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+
+  .footer-column:nth-child(2) .footer-list {
+    gap: 10px;
+    font-size: 14px;
+  }
+
+  .footer-column:nth-child(2) .footer-list li {
+    margin-bottom: 0;
+  }
+
+  .contact-link {
+    gap: 10px;
+    font-size: 14px;
+  }
+
+  .contact-link svg {
+    width: 16px;
+    height: 16px;
+    margin-top: 1px;
+  }
+
+  .footer-column:nth-child(3) .footer-text {
+    font-size: 14px;
+    margin-bottom: 12px;
+    line-height: 1.6;
+  }
+
+  .footer-column:nth-child(3) .footer-link {
+    font-size: 14px;
+  }
+
+  .social-icons {
+    gap: 12px;
+    margin-top: 12px;
+  }
+
+  .social-icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .footer-bottom {
     grid-column: 1 / -1;
+    margin-top: 12px;
+    padding-top: 16px;
+  }
+
+  .footer-column:nth-child(3) .footer-text {
+    font-size: 14px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+  }
+
+  .footer-column:nth-child(3) .footer-link {
+    font-size: 14px;
   }
 }
 
