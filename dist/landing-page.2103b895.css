@@ -20,7 +20,7 @@ body {
 .container-2 {
   width: 100%;
   margin: 0 auto;
-  padding: 0 2% 0 18% !important;
+  padding: 0 0% 0 18% !important;
 }
 
 .btn {
@@ -102,7 +102,7 @@ body {
   z-index: 1000000;
   background-color: #fffffff2;
   width: 100%;
-  padding: 12px 40px;
+  padding: 12px 96px;
   position: fixed;
   top: 0;
   box-shadow: 0 4px 20px #1c191714;
@@ -1291,7 +1291,7 @@ body {
     order: 2;
     justify-content: center;
     align-items: center;
-    min-height: 400px;
+    min-height: 0;
     margin-top: 0;
     display: flex;
     position: relative;
@@ -1300,6 +1300,13 @@ body {
   .technology-copy h2 {
     margin: 18px 0 20px;
     font-size: 42px;
+  }
+
+  .technology-bottle {
+    width: 100%;
+    height: 600px;
+    top: -250px;
+    left: 0;
   }
 
   .technology-background-1, .technology-background-2 {
@@ -1512,7 +1519,7 @@ body {
     width: 100%;
     height: 820px;
     top: 100px;
-    left: 0;
+    left: 100px;
   }
 
   .technology-pour {
@@ -1708,6 +1715,10 @@ body {
 }
 
 @media (width <= 1644px) {
+  .site-header {
+    padding: 12px 40px;
+  }
+
   .technology-pour {
     width: 600px;
     height: 600px;
@@ -1718,6 +1729,12 @@ body {
 @media (width <= 1024px) {
   .hero h1 {
     font-size: 56px;
+  }
+
+  .feature-grid {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 20px 24px;
+    margin-top: 32px;
   }
 
   .section-about-inner, .technology-inner {
@@ -1742,11 +1759,15 @@ body {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .technology-visual {
+    min-height: 0;
+  }
+
   .technology-bottle {
-    width: 100%;
+    width: 60%;
     height: 600px;
-    top: -250px;
-    left: 0;
+    top: -300px;
+    left: 40vw;
   }
 
   .technology-pour {
@@ -1769,6 +1790,10 @@ body {
 }
 
 @media (width <= 708px) {
+  .section-about-inner, .technology-inner {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
   .break_small-screen {
     display: block;
   }
@@ -2254,8 +2279,8 @@ body {
   }
 
   .padding {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 
   .partner-logos-wrapper {
@@ -2344,10 +2369,10 @@ body {
   }
 
   .technology-bottle {
-    width: 70%;
+    width: 50%;
     height: 400px;
     top: -170px;
-    left: 134px;
+    left: 204px;
   }
 
   .technology-spoon {
