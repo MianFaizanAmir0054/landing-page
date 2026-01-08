@@ -1529,7 +1529,8 @@ body {
   }
 
   .container-2 {
-    padding: 0 2% 0 18% !important;
+    padding: 0 0% 0 14% !important;
+    // padding: 0 0% 0 18% !important;
   }
 
   .header-inner {
@@ -1593,7 +1594,11 @@ body {
   }
 
   .about-copy h2 {
-    font-size: 40px;
+    font-size: 30px;
+  }
+
+  .about-visual-img {
+    object-position: -72px;
   }
 
   .about-stats {
@@ -1663,7 +1668,8 @@ body {
     width: 100%;
     height: 820px;
     top: 100px;
-    left: 100px;
+    left: 83px;
+    // left: 100px;
   }
 
   .technology-pour {
@@ -1892,9 +1898,9 @@ body {
     // width: 180px;
   }
 
-  .site-header {
-    padding: 12px 40px;
-  }
+  // .site-header {
+  //   padding: 12px 40px;
+  // }
 
   .technology-pour {
     left: 125px;
@@ -1924,10 +1930,13 @@ body {
 
 /* Tablet and below (max-width: 1024px) */
 @media (max-width: 1024px) {
+  .site-header {
+    padding: 10px 20px;
+  }
+
   .hero h1 {
     font-size: 56px;
   }
-
 
   .feature-grid {
     grid-template-columns: repeat(1, minmax(0, 1fr));
@@ -2866,5 +2875,225 @@ body {
   .footer-bottom {
     padding-top: 20px;
     font-size: 13px;
+  }
+}
+
+/* ==================== TEXT SIZE ADJUSTMENTS FOR SMALLER SCREENS ==================== */
+
+/* Tablet (768px - 1024px) – slight reduction */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .hero h1 {
+    font-size: 52px; /* was 56px */
+  }
+
+  .hero-subtext {
+    font-size: 20px; /* was 22px */
+  }
+  .section-heading h2 {
+    font-size: 44px; /* was 48px */
+  }
+  .section-heading p,
+  .lead {
+    font-size: 18px; /* was 19px */
+  }
+  .btn-primary {
+    font-size: 17px; /* was 18px */
+  }
+  .btn-light {
+    font-size: 15px; /* was 16px */
+  }
+  .chip,
+  .btn-glass,
+  .hero-pill-row,
+  .pill {
+    font-size: 13px; /* was 14px/16px */
+  }
+  .feature-card-content h3 {
+    font-size: 17px;
+  }
+  .feature-card-content p {
+    font-size: 14px;
+  }
+}
+
+/* Mobile – up to 768px */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 36px; /* reduced from 40px */
+  }
+  .hero-subtext {
+    font-size: 17px; /* was 18px */
+  }
+  .section-heading h2 {
+    font-size: 36px; /* reduced from implicit larger */
+  }
+  .section-heading p,
+  .lead {
+    font-size: 16px;
+  }
+  .eyebrow {
+    font-size: 11px;
+  }
+  .chip,
+  .btn-glass,
+  .pill {
+    font-size: 13px;
+  }
+  .stat-card h3 {
+    font-size: 17px; /* was 18px */
+  }
+  .stat-card p {
+    font-size: 10.5px; /* was 11px */
+  }
+  .feature-card-content h3 {
+    font-size: 16px;
+  }
+  .feature-card-content p {
+    font-size: 13px;
+  }
+  .product-card h3 {
+    font-size: 17px; /* was 18px */
+  }
+  .product-description,
+  .product-props {
+    font-size: 12.5px;
+  }
+}
+
+/* Smaller tablets / large phones (max-width: 1024px) – additional tweaks */
+@media (max-width: 1024px) {
+  .technology-copy h2 {
+    font-size: 38px; /* reduced from 42px on tablet */
+  }
+  .about-copy h2 {
+    font-size: 32px; /* was 36px */
+  }
+}
+
+/* Extra small screens (max-width: 480px) – more aggressive reduction */
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 30px; /* was 32px */
+  }
+  .hero-subtext {
+    font-size: 15px; /* was 16px */
+  }
+  .section-heading h2 {
+    font-size: 28px; /* was 32px */
+  }
+  .section-heading p,
+  .lead {
+    font-size: 15px; /* was 16px */
+  }
+  .btn-primary {
+    height: 30px;
+    font-size: 9px; /* was 9px – slightly larger than original tiny 9px for readability */
+    // font-size: 11px; /* was 9px – slightly larger than original tiny 9px for readability */
+  }
+  .chip,
+  .btn-glass,
+  .pill {
+    font-size: 12px;
+  }
+  .stat-card h3 {
+    font-size: 15px;
+  }
+  .stat-card p {
+    font-size: 9.5px;
+  }
+  .feature-card-content h3 {
+    font-size: 15px;
+  }
+  .product-card h3 {
+    font-size: 16px;
+  }
+  .product-description,
+  .product-props {
+    font-size: 12px;
+  }
+  .markets-tags span {
+    font-size: 11px;
+  }
+}
+
+/* ==================== LOGO SIZE ADJUSTMENTS FOR SMALLER SCREENS ==================== */
+
+/* Tablet (768px - 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .logo {
+    font-size: 20px; /* was ~22px */
+    gap: 5px;
+  }
+  .logo-mark {
+    padding: 5px 8px;
+  }
+  .logo-gulfood img {
+    height: 50px; /* was 60px */
+  }
+  .logo-divider {
+    height: 45px;
+  }
+}
+
+/* Mobile – up to 768px */
+@media (max-width: 768px) {
+  .logo img {
+    font-size: 18px;
+    gap: 4px;
+    height: 36px;
+  }
+  .logo-mark {
+    padding: 4px 7px;
+  }
+  .logo-gulfood img {
+    height: 40px; /* reduced from 60px */
+  }
+  .logo-divider {
+    height: 40px;
+  }
+  .logo-group {
+    gap: 10px;
+  }
+}
+
+/* Extra small screens (max-width: 480px) – more aggressive reduction */
+@media (max-width: 480px) {
+  .logo img {
+    font-size: 16px; /* smaller text */
+    gap: 3px;
+    height: 30px;
+  }
+  .logo-mark {
+    padding: 4px 6px;
+    font-size: 14px; /* if it contains text/icon */
+  }
+  .logo-text {
+    font-size: 16px;
+  }
+  .logo-gulfood img {
+    height: 30px; /* was 32px in original small rules, making it consistent and smaller */
+  }
+  .logo-divider {
+    height: 32px;
+  }
+  .logo-group {
+    gap: 6px;
+  }
+  /* Footer logo adjustments (already partially covered, but reinforce) */
+  .footer-column:first-child .logo-gulfood img {
+    height: 36px;
+  }
+  .footer-column:first-child .logo img {
+    height: 36px;
+  }
+}
+
+/* Very small mobile (max-width: 375px) – optional extra reduction */
+@media (max-width: 375px) {
+  .logo-gulfood img {
+    height: 32px;
+  }
+  .logo {
+    font-size: 15px;
   }
 }

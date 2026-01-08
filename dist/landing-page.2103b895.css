@@ -1391,7 +1391,7 @@ body {
   }
 
   .container-2 {
-    padding: 0 2% 0 18% !important;
+    padding: 0 0% 0 14% !important;
   }
 
   .btn-primary {
@@ -1450,7 +1450,11 @@ body {
   }
 
   .about-copy h2 {
-    font-size: 40px;
+    font-size: 30px;
+  }
+
+  .about-visual-img {
+    object-position: -72px;
   }
 
   .about-stats {
@@ -1519,7 +1523,7 @@ body {
     width: 100%;
     height: 820px;
     top: 100px;
-    left: 100px;
+    left: 83px;
   }
 
   .technology-pour {
@@ -1715,10 +1719,6 @@ body {
 }
 
 @media (width <= 1644px) {
-  .site-header {
-    padding: 12px 40px;
-  }
-
   .technology-pour {
     width: 600px;
     height: 600px;
@@ -1727,6 +1727,10 @@ body {
 }
 
 @media (width <= 1024px) {
+  .site-header {
+    padding: 10px 20px;
+  }
+
   .hero h1 {
     font-size: 56px;
   }
@@ -2540,6 +2544,237 @@ body {
   .footer-bottom {
     padding-top: 20px;
     font-size: 13px;
+  }
+}
+
+@media (width >= 768px) and (width <= 1024px) {
+  .hero h1 {
+    font-size: 52px;
+  }
+
+  .hero-subtext {
+    font-size: 20px;
+  }
+
+  .section-heading h2 {
+    font-size: 44px;
+  }
+
+  .section-heading p, .lead {
+    font-size: 18px;
+  }
+
+  .btn-primary {
+    font-size: 17px;
+  }
+
+  .btn-light {
+    font-size: 15px;
+  }
+
+  .chip, .btn-glass, .hero-pill-row, .pill {
+    font-size: 13px;
+  }
+
+  .feature-card-content h3 {
+    font-size: 17px;
+  }
+
+  .feature-card-content p {
+    font-size: 14px;
+  }
+}
+
+@media (width <= 768px) {
+  .hero h1 {
+    font-size: 36px;
+  }
+
+  .hero-subtext {
+    font-size: 17px;
+  }
+
+  .section-heading h2 {
+    font-size: 36px;
+  }
+
+  .section-heading p, .lead {
+    font-size: 16px;
+  }
+
+  .eyebrow {
+    font-size: 11px;
+  }
+
+  .chip, .btn-glass, .pill {
+    font-size: 13px;
+  }
+
+  .stat-card h3 {
+    font-size: 17px;
+  }
+
+  .stat-card p {
+    font-size: 10.5px;
+  }
+
+  .feature-card-content h3 {
+    font-size: 16px;
+  }
+
+  .feature-card-content p {
+    font-size: 13px;
+  }
+
+  .product-card h3 {
+    font-size: 17px;
+  }
+
+  .product-description, .product-props {
+    font-size: 12.5px;
+  }
+}
+
+@media (width <= 1024px) {
+  .technology-copy h2 {
+    font-size: 38px;
+  }
+
+  .about-copy h2 {
+    font-size: 32px;
+  }
+}
+
+@media (width <= 480px) {
+  .hero h1 {
+    font-size: 30px;
+  }
+
+  .hero-subtext {
+    font-size: 15px;
+  }
+
+  .section-heading h2 {
+    font-size: 28px;
+  }
+
+  .section-heading p, .lead {
+    font-size: 15px;
+  }
+
+  .btn-primary {
+    height: 30px;
+    font-size: 9px;
+  }
+
+  .chip, .btn-glass, .pill {
+    font-size: 12px;
+  }
+
+  .stat-card h3 {
+    font-size: 15px;
+  }
+
+  .stat-card p {
+    font-size: 9.5px;
+  }
+
+  .feature-card-content h3 {
+    font-size: 15px;
+  }
+
+  .product-card h3 {
+    font-size: 16px;
+  }
+
+  .product-description, .product-props {
+    font-size: 12px;
+  }
+
+  .markets-tags span {
+    font-size: 11px;
+  }
+}
+
+@media (width >= 768px) and (width <= 1024px) {
+  .logo {
+    gap: 5px;
+    font-size: 20px;
+  }
+
+  .logo-mark {
+    padding: 5px 8px;
+  }
+
+  .logo-gulfood img {
+    height: 50px;
+  }
+
+  .logo-divider {
+    height: 45px;
+  }
+}
+
+@media (width <= 768px) {
+  .logo img {
+    gap: 4px;
+    height: 36px;
+    font-size: 18px;
+  }
+
+  .logo-mark {
+    padding: 4px 7px;
+  }
+
+  .logo-gulfood img, .logo-divider {
+    height: 40px;
+  }
+
+  .logo-group {
+    gap: 10px;
+  }
+}
+
+@media (width <= 480px) {
+  .logo img {
+    gap: 3px;
+    height: 30px;
+    font-size: 16px;
+  }
+
+  .logo-mark {
+    padding: 4px 6px;
+    font-size: 14px;
+  }
+
+  .logo-text {
+    font-size: 16px;
+  }
+
+  .logo-gulfood img {
+    height: 30px;
+  }
+
+  .logo-divider {
+    height: 32px;
+  }
+
+  .logo-group {
+    gap: 6px;
+  }
+
+  .footer-column:first-child .logo-gulfood img, .footer-column:first-child .logo img {
+    height: 36px;
+  }
+}
+
+@media (width <= 375px) {
+  .logo-gulfood img {
+    height: 32px;
+  }
+
+  .logo {
+    font-size: 15px;
   }
 }
 /*# sourceMappingURL=landing-page.2103b895.css.map */
