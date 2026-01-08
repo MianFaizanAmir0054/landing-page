@@ -1755,7 +1755,7 @@ body {
     font-size: 16px;
   }
 
-  .btn-light {
+  .btn-light-hidden {
     display: none;
   }
 
@@ -2376,7 +2376,7 @@ body {
     width: 50%;
     height: 400px;
     top: -170px;
-    left: 186px;
+    left: 187px;
   }
 
   .technology-spoon {
